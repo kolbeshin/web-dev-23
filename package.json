@@ -1,0 +1,18 @@
+{
+  "name": "package",
+  "version": "0.0.1",
+  "description": "",
+  "type": "module",
+  "main": "lab1/main.js",
+  "scripts": {
+    "dev": "node --watch lab8/main.js",
+    "serve": "node lab7/main.js"
+  },
+  "author": "Kolbeshin",
+  "license": "ISC",
+  "dependencies": {
+    "http": "^0.0.1-security",
+    "sqlite": "^5.1.1",
+    "sqlite3": "^5.1.7"
+  }
+}
